@@ -1,0 +1,14 @@
+git commands #LECTURE 3
+
+#all in terminal
+
+git status #checks current status of repository
+
+git add -A #adds all untracked / altered files to staging area
+
+git commit -am '<message>' #commit changes with message
+
+git push #take changes made locally and push them to the github repository
+
+git pull #pull any changes from github down to local repository
+
