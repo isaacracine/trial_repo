@@ -1,22 +1,25 @@
 ---
 title: "Web Page Set Up"
 author: "Isaac Racine"
-date: "1/26/2021"
+date: "1/30/2021"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Git Terminal Commands
 git status 
 
 git add -A 
 
-git commit -am '<message>' 
+git commit -am 'message' 
 
 git push 
 
 git pull 
+
+
 
 ## R Markdown
 
